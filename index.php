@@ -1,9 +1,6 @@
 <?php
-echo"eco
-echo
 
-
-echo "ola teste 123"
+echo "Meu primeiro projeto"
 
 
 
